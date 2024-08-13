@@ -224,9 +224,11 @@ background-color: #e2e6e7;
     justify-content: center;
     text-align: center;
 }
-.multishop-sec a{
+.multishop-sec a {
     text-decoration: none;
     color: #007185;
+    display: inline-block;
+    margin-top: 20px;
 }
 
 /* footer */
